@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+
+.cart-logo{
+    width: 32px;
+    padding: 10px;
+}
+
+.header{
+    display: grid;
+    
+}
